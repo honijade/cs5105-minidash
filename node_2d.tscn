@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://dxy735pmlnob8"]
+
+[ext_resource type="Texture2D" uid="uid://bmofdwyhmvc80" path="res://Gengar sprite.jpg" id="1_wtcfe"]
+
+[node name="Node2D" type="Node2D" unique_id=2056612679]
+
+[node name="GengarSprite" type="Sprite2D" parent="." unique_id=1808190633]
+position = Vector2(558, 293.99997)
+scale = Vector2(0.4675, 0.40416667)
+texture = ExtResource("1_wtcfe")
